@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Sham-Flutter
-=======
+
 # API 加密解密与请求示例
 
 本项目提供了一个 Python 脚本，用于演示如何对 API 请求的 payload 进行加密，发送请求，并对服务器返回的加密响应进行解密。加密方案结合了 RSA 和 AES-GCM。
@@ -127,5 +126,3 @@ pip install requests cryptography
   "total": 1
 }
 ```
-
->>>>>>> 059a44b (first commit)
